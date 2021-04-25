@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Typescript on React example
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ This project was created in order to practise typescript syntax and its use in reactjs.Enjoy!
 
 ## Available Scripts
 
